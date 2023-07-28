@@ -9539,7 +9539,7 @@ button.bg-dark:focus {
 }
 
 .text-white {
-  color: #fff !important;
+  color: #fff;
 }
 
 .text-primary {
@@ -9882,7 +9882,7 @@ h6,
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: rgba(0, 0, 0, 0.5);
+  background-color:none;
   z-index: 1;
 }
 
